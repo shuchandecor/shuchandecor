@@ -18,6 +18,8 @@ OEM/ODM available · MOQ 500 m² per design · mixed-design containers accepted 
 - Landed Cost Calculator: https://shuchanflooring.com/landed-cost-calculator
 - Buyer guides (EN/ES/RU): https://shuchanflooring.com/knowledge
 
+- Container & Pallet Load Calculator (open source): https://shuchandecor.github.io
+
 ## Contact
 
 - Website: https://shuchanflooring.com
