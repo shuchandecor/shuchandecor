@@ -26,4 +26,4 @@ OEM/ODM available · MOQ 500 m² per design · mixed-design containers accepted 
 - Facebook: https://www.facebook.com/shuchanflooring
 - Instagram: https://www.instagram.com/shuchanflooring
 - YouTube: https://www.youtube.com/@shuchanflooring
-- X (Twitter): https://x.com/shuchanflooring
+- X (Twitter): https://x.com/whYtherealex
